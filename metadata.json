@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Live Voice Studio",
+  "description": "Bidirectional real-time voice conversations powered by Gemini 3.8 Live API with live audio visualization, multi-voice selection, and speech transcription.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
